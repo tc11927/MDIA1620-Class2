@@ -12,4 +12,12 @@ console.log("\x1b[0m")
 console.log("\x1b[44m", "Hello")
 console.log("\x1b[0m")
 console.log("\x1b[40m", "woahh spooky")
+console.log("\x1b[0m")
+
+
+console.log("\x1b[36m", "Hi")
+
+console.log("what does this do?")
+
+//text above is all blue, remember to reset colours example above
 
