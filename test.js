@@ -5,3 +5,5 @@ console.log("weeeeeeeeeee what a good story")
 console.log("another change to the code wowowoowowow")
 
 console.log("\x1b[32m", "Hi")
+
+console.log("\x1b[44m", "Hello")
