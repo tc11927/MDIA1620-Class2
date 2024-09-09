@@ -21,3 +21,7 @@ console.log("what does this do?")
 
 //text above is all blue, remember to reset colours example above
 
+//no semicolons, need them. they're like periods, they end what ur writing
+
+console.log("\x1b[0m")
+console.log("\x1b[43m", "Wewewewe")
