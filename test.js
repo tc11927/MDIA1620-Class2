@@ -25,3 +25,12 @@ console.log("what does this do?")
 
 console.log("\x1b[0m")
 console.log("\x1b[43m", "Wewewewe")
+console.log("\x1b[0m")
+
+
+
+//below is how you change both the colour and background
+console.log("\x1b[47m", "\x1b[36m", "hola")
+console.log("\x1b[0m")
+
+
